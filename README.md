@@ -12,6 +12,6 @@ The following jupyter notebook contains code to the preprocessing step of this p
 # UPDATE
 Due to having a small training set relative to the testing set, we weren't able to continue with our project with this data set.
 
-We decided to implement a text classifier by modeling a Multinomial Naive Bayes classifer as well as a SVM classifier.
+We decided to implement a text classifier by modeling a Multinomial Naive Bayes classifer as well as a SVM classifier, using the 20newsgroup data set.
 
 Please refer to the [Text-Classifier](https://github.com/Phileodontist/Text-Classifier) repository.
