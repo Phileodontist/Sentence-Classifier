@@ -19,5 +19,3 @@ Due to having a small training set relative to the testing set, we weren't able 
 Alternatively, we decided to implement a text classifier by modeling a Multinomial Naive Bayes classifer as well as a SVM classifier, using the 20newsgroup data set.
 
 Please refer to the [Text-Classifier](https://github.com/Phileodontist/Text-Classifier) repository.
-
-Another related project is the [Toxic-Comment Classifier](https://github.com/Phileodontist/Toxic_Comment_Classifier)
