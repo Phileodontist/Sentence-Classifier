@@ -3,6 +3,10 @@
 
 The following jupyter notebook contains code to the preprocessing step of this project.
 
+## Objective
+* Data Processing & Modeling
+* Natural Language Processing
+
 **Preprocessing:**
 1) Retrieving desired text files from directory
 2) Removing desired stop-words from NLTK's list of stop-words
